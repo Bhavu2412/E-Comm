@@ -1,13 +1,4 @@
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-   <img src="https://m.media-amazon.com/images/I/61vz5EMkvxL._UL1500_.jpg" alt="PATEL" height="75">
- 
-</div>
-
-
-
 ## Description
 
 The E-Comm project aims to provide a perfect website with the following features. It allows client to buy products.
